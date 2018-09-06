@@ -9,5 +9,3 @@ which is obsolete and non-trivial to compile (as it's using Jackrabbit v1.0 & Ma
 
 Usage:
 `$ java -jar xsd2cnd.jar custom-nodetypes-file.xml`
-# xsd2cnd
-# xsd2cnd
